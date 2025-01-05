@@ -1,5 +1,6 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 
+![](1.png)
 
 # How to run?
 ### STEPS:
